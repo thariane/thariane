@@ -1,6 +1,5 @@
 ### Olá! Eu sou a Thainá Ariane
 
-- 🌱 Estudando Python, Javascript, UI/UX e Marketing digital
 - 💬 Contate-me no email: thainaarianes@gmail.com
 - 😄 Pronouns: ela/dela
 
