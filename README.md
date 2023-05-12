@@ -7,6 +7,7 @@
   <a href="https://github.com/thariane">
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=thariane&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thariane&layout=compact&langs_count=7&theme=panda"/>
+  ![Snake animation](https://github.com/ivbpinheiro/ivbpinheiro/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
